@@ -7,6 +7,6 @@ public class GreetingRepository {
 
     public String findGreeting() {
         // In a real app, this would query a database
-        return "Hello";
+        return "Hello there!";
     }
 }
